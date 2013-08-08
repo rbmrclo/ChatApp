@@ -1,2 +1,3 @@
 # ChatApp
-### a Sails application
+
+<p> A Sails.js + Backbone.js application
